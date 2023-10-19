@@ -1,0 +1,59 @@
+[
+    {
+        "nombre": "Caliv",
+        "fotos": ["https://picsum.photos/id/252/500/310", "https://picsum.photos/id/252/500/310", "https://picsum.photos/id/252/500/310"],
+        "soporte": "Textil",
+        "abstract": "Cocina con alivio",
+        "texto": "Accesorio textil ubicado en el antebrazo que permite secar y disminuir el sudor del rostro debido a su composición material. La exposición facial a vapores y el calor de utensilios mientras se cocina, causa y agrava síntomas como ardor, enrojecimiento y sudoración facial. Disminuir la sintomatología facial ante las condiciones de exposición, con el fin de desempeñar de mejor forma las labores de la cocina."
+    },
+    {
+        "nombre": "Styling El Parche Antes De La Herida",
+        "fotos": ["https://picsum.photos/id/3/500/310", "https://picsum.photos/id/3/500/310", "https://picsum.photos/id/3/500/310"],
+        "soporte": "Styling",
+        "abstract": "Styling Producción Cinematográfica",
+        "texto": "Styling para Producción Cinematográfica de cortometraje El Parche Antes De La Herida. Talentos: Francisca Imboden, Ilan Spollansky. Directores: Ivannia Vanni, Vicente Piña."
+    },
+    {
+        "nombre": "Pic-Puff",
+        "fotos": ["https://picsum.photos/id/464/500/310", "https://picsum.photos/id/464/500/310", "https://picsum.photos/id/464/500/310"],
+        "soporte": "UX/UI",
+        "abstract": "Picnic",
+        "texto": "Picnic sensorial, estimulante, interactivo y lúdico para niños."
+    },
+    {
+        "nombre": "Caligrafía Partes de Matrimonio",
+        "fotos": ["https://picsum.photos/id/39/500/310", "https://picsum.photos/id/39/500/310", "https://picsum.photos/id/39/500/310"],
+        "soporte": "Gráfico",
+        "abstract": "Caligrafía para Matrimonio",
+        "texto": "Trabajo de caligrafía a mano para invitación de matrimonio."
+    },
+    {
+        "nombre": "Quinquén",
+        "fotos": ["https://picsum.photos/id/42/500/310", "https://picsum.photos/id/42/500/310", "https://picsum.photos/id/42/500/310"],
+        "soporte": "Biomateriales",
+        "abstract": "Refugio Micielar",
+        "texto": "Refugio biomaterial a partir de micelio que busca la preservación para especie nativa Chincol ante depredadores en ecosistemas boscosos."
+    },
+    {
+        "nombre": "Gourmetería",
+        "fotos": ["https://picsum.photos/id/435/500/310", "https://picsum.photos/id/435/500/310", "https://picsum.photos/id/435/500/310"],
+        "soporte": "Gráfico",
+        "abstract": "Branding y pizarras con diseño caligráfico",
+        "texto": "Desarrollo de branding e imagen de marca para cafetería en Providencia, además de trabajo caligráfico a mano en pizarras."
+    },
+    {
+        "nombre": "Influencer @lucas.notes",
+        "fotos": ["https://picsum.photos/id/20/500/310", "https://picsum.photos/id/20/500/310", "https://picsum.photos/id/20/500/310"],
+        "soporte": "Otros",
+        "abstract": "Influencer de lifestyle y diseño en las redes sociales, he trabajado con marcas como Sharpie Latinoamérica.",
+        "texto": "Comencé ayudando a estudiantes a prepararse para la PTU hace varios años, he trabajado con Sharpie Latinoamérica, ZeroBlue, entre otras marcas. Además he sido embajador de diversas pymes chilenas de papelería y comunico una parte de mi vida, buscando generar una comunidad."
+    },
+    {
+        "nombre": "Lápiz López",
+        "fotos": ["https://picsum.photos/id/816/500/310", "https://picsum.photos/id/816/500/310", "https://picsum.photos/id/816/500/310"],
+        "soporte": "Otros",
+        "abstract": "Trabajo de asistente de ventas en temporada de listas escolares",
+        "texto": "Asistente de ventas para listas escolares, trabajo de empaquetar, reposición de inventario, venta al público."
+    }
+
+]
